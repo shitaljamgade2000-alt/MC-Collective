@@ -1,0 +1,16 @@
+.brand-mark {
+  box-shadow: inset 0 0 0 1px rgba(214, 196, 163, 0.5);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #0d0d0b;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
